@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 agung.ahmad StafCS 4096 Sep 10 10:45 .
+drwx--x--x  3 agung.ahmad StafCS 4096 Sep 10 10:42 ..
+drwxr-xr-x  8 agung.ahmad StafCS 4096 Sep 10 10:43 .git
+-rw-r--r--  1 agung.ahmad StafCS    0 Sep 10 10:45 lab01.txt
+-rw-r--r--  1 agung.ahmad StafCS    7 Sep 10 09:36 README.md
+drwxr-xr-x  2 agung.ahmad StafCS 4096 Sep 10 10:30 SandBox
+drwxr-xr-x  2 agung.ahmad StafCS 4096 Sep 10 10:42 week00
+drwxr-xr-x  2 agung.ahmad StafCS 4096 Sep 10 10:15 week01
+drwxr-xr-x  2 agung.ahmad StafCS 4096 Sep 10 10:16 week02
+drwxr-xr-x  2 agung.ahmad StafCS 4096 Sep 10 10:16 week03
+drwxr-xr-x  2 agung.ahmad StafCS 4096 Sep 10 10:16 week04
+drwxr-xr-x  2 agung.ahmad StafCS 4096 Sep 10 10:17 week05
+drwxr-xr-x  2 agung.ahmad StafCS 4096 Sep 10 10:17 week06
+drwxr-xr-x  2 agung.ahmad StafCS 4096 Sep 10 10:17 week07
+drwxr-xr-x  2 agung.ahmad StafCS 4096 Sep 10 10:17 week08
+drwxr-xr-x  2 agung.ahmad StafCS 4096 Sep 10 10:18 week09
+drwxr-xr-x  2 agung.ahmad StafCS 4096 Sep 10 10:18 week10
+/home/fasilkom/mahasiswa/a/agung.ahmad/os162/week01
