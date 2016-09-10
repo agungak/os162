@@ -1,0 +1,3 @@
+#Agung_Ahmad_K
+lab minggu ke 1 disini mempraktikan push dan pull, dan berbagai macam command line, serta text editor (vi, nano).
+
