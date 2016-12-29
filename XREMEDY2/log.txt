@@ -1,1 +1,4 @@
 Wed Dec 28 19:49:00 WIB 2016 START
+Thu Dec 29 11:30:00 WIB 2016 Coba Pertama
+Thu Dec 29 14:00:00 WIB 2016 Berhasil
+Thu Dec 29 14:02:00 WIB 2016 END
