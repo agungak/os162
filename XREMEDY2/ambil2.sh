@@ -28,6 +28,6 @@ for  (( i=0; i<${#arrID[@]}; i++ )) ; do
        if [ -z "$var" ]; then
 	  touch "${arrID[i]}-GAGAL.txt"
        else
-       w3m -dump -cols 1000 ${arrLINK[1]} > "${arrID[i]}.txt" 
+       w3m -dump -cols 1000 ${arrLINK[i]} > "${arrID[i]}.txt" 
        fi 	  
 done 
