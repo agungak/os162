@@ -1,3 +1,4 @@
+#!/bin/bash
 ## (c)2016 Atung Ahmad K -- This is free software
 ##Dengan bantuan google, stackoverflow dan unix.stackexchange.com
 ##http://unix.stackexchange.com/questions/20573/sed-insert-something-to-the-last-line
@@ -13,10 +14,6 @@ sed -n "/ZCZC/,/NNNN/p" |
 sed  "/ZCZC/d" | sed "/NNNN/d" |
 ## delete line yang mengandung kata [DISK]
 sed  "/\[DISK\]/d" |
-## insert baris pertama
-sed '1 i\========================================================== START BERKAS' |
-## insert baris terakhir
-sed -e '$a\============================================================ STOP BERKAS' |
 ## delete bracket []
 tr -d '[]' |
 ## hapus baris kosong jika ada jika selesai output disimpan ke ranking.txt
