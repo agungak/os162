@@ -18,7 +18,7 @@ RANKING ULASAN1/ULASAN2 PESERTA OS 2016 - 2017
  7. [U2-12] http://keynekassapa13.blogspot.co.id/2016/12/review2-io-system-and-device-drivers.html
  8. [U2-37] http://tugasos162.blogspot.co.id/2016/12/the-code-story-of-linux-documentary.html
  9. [U2-08] http://zetlogger.blogspot.co.id/2016/12/apache-hadoop-modern-data-os.html
-10. [U2-30]  https://mathisgold.blogspot.com.tr/2016/12/introduction-to-active-directory.html
+10. [U2-30] https://mathisgold.blogspot.com.tr/2016/12/introduction-to-active-directory.html
 11. [U2-19] http://luthfanrasyad.blogspot.co.id/2016/12/ulasan-2-aws-cloud-storage.html
 12. [U1-31] http://louissihombing.blogspot.co.id/2016/12/controlling-hijacking-attacks.html
 13. [U1-34] http://ahmadhilman-os162.blogspot.co.id/2016/12/hybrid-cloud-infrastructure-introduction.html

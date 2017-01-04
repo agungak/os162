@@ -40,7 +40,7 @@ RANKING ULASAN1-ULASAN2 PESERTA OS 2016
 26. [U1-01] http://tugas-os162.blogspot.co.id/2016/11/anatomy-of-filesystems-posted-by-benno.html
 27. [U1-06] http://putrirmd.blogspot.co.id/2016/12/cloud-computing.html
 28. [U2-29] http://psudeosudo.blogspot.co.id/2016/12/blog-post.html
-29. l[U2-39] http://rahmanfathin.blogspot.co.id/2016/12/ulasan2.html
+29. [U2-39] http://rahmanfathin.blogspot.co.id/2016/12/ulasan2.html
 30. [U1-08] https://otonaenomichi.blogspot.co.id/2016/12/hybrid-cloud-infrastructure.html
 
 ----------------------------------------------------------------------------------------------------------
