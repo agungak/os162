@@ -1,6 +1,10 @@
 #!/bin/bash
-## banyak berkas di blog ranking yang terdaftar tidak sesuai format yang diberikan sebelumnya, maka diperlukan editing terhadap file ranking sebelumnya
+## (c)2016 Agung Ahmad K -- This is free software
 ## kode ini hanya dicocokan untuk sesuai format yang berlaku dimana  diawali dengan nomor urut dan dipisahkan dengan spasi ex: 01. [U1-01] http:xxx
+## kode ini membaca semeua isi file RK-* dan mengubah format AA. [UB-CC] menjadi U B CC AA lalu disimpan ke XHASIL.txt
+## lalu XHASIL.txt di sort secara asc dan disimpan di YHASIL.txt
+## selanjutnya file YHASIL.txt dimerge apa bila  U X YY * menjadi satu baris. kemudain disimpan di ZHASIL.txt
+
 for  f in RK-*.txt; do
   cat $f |
   egrep "\[U.*]" |
