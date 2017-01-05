@@ -12,7 +12,7 @@ for  f in RK-*.txt; do
   cat $f |
   egrep "\[U.*]" |
   awk -F "." '{print $1 " " $2}' |
-  awk '{ if (length($2) > 7 ) print $1 " " substr($2,2); else print $1 " " $2}'|
+  awk '{ if (length($2) > 7 ) print $1 " " substr($2,2); else print $1 " " $2 ;}'|
   grep "-" |
   tr -d '[]' |
   sed -e "s/\-/ /g" |
