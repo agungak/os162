@@ -1,8 +1,10 @@
-Wed Jan 05 12:22:00 WIB 2017 END	
-Wed Jan 05 10:20:00 WIB 2017 berhasil YHASIL.txt
-Wed Jan 05 10:17:00 WIB 2017 berhasil XHASIL.txt
-Wed Jan 05 09:00:00 WIB 2017 edit file RK-*.txt yang tidak sesuai dengan format, misal penambahan angka jika sebelumnya tidak ada, penambahan spasi, error syntax dll
-Tue Jan 04 19:00:00 WIB 2017 coba babak5
+Thu Jan 05 18:15:00 WIB 2017 END
+Thu Jan 05 17:13:00 WIB 2017 Revisi babak5
+Wed Jan 04 12:22:00 WIB 2017 revisi babak5
+Wed Jan 04 10:20:00 WIB 2017 berhasil YHASIL.txt
+Wed Jan 04 10:17:00 WIB 2017 berhasil XHASIL.txt
+Wed Jan 04 09:00:00 WIB 2017 edit file RK-*.txt yang tidak sesuai dengan format, misal penambahan angka jika sebelum$
+Tue Jan 03 19:00:00 WIB 2017 coba babak5
 Sat Dec 31 21:00:00 WIB 2016 END babak4
 Sat Dec 31 14:00:00 WIB 2016 Revisi2
 Sat Dec 31 13:26:00 WIB 2016 Sudah bisa cek dump
