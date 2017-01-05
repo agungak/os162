@@ -1,9 +1,0 @@
-Sat Dec 31 21:00:00 WIB 2016 END
-Sat Dec 31 14:00:00 WIB 2016 Revisi2
-Sat Dec 31 13:26:00 WIB 2016 Sudah bisa cek dump
-Fri Dec 30 20:13:00 WIB 2016 coba babak4 dan sedikit revisi babak3
-Thu Dec 29 14:23:00 WIB 2016 END babak3
-Thu Dec 29 14:21:00 WIB 2016 Revisi2
-Thu Dec 29 14:15:00 WIB 2016 Revisi1
-Thu Dec 29 11:30:00 WIB 2016 Coba Pertama
-Wed Dec 28 19:49:00 WIB 2016 START
